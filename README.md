@@ -13,8 +13,6 @@
 
 </p>
 
-ایرانی هستید؟ [داکیومنشن فارسی](https://github.com/voidfy69/Radium-Nuker/tree/main/persian_docs/)
-
 ### *Features :*
 > - [x] *Spam in all channels*
 > - [x] *Delete all Role*
