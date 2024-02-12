@@ -1,10 +1,10 @@
 """
 
-- This script is educational and fully coded by M. logique aka @1ogi in discord
-- if you choose to abuse this tool it's are your fault and M. logique will not accept anything about you're mistake
+- This script is educational and fully coded by Lucifer. logique aka @jodz.xin in discord
+- if you choose to abuse this tool it's are your fault. logique will not accept anything about you're mistake
 
 
-? Bruh Nuker. A defferant nuker that you can enjoy it cool featchurs ?
+? Radium Nuker. A defferant nuker that you can enjoy it cool featchurs ?
 - https://github.com/voidfy69/Radium-Nuker
 - ? use it on your own purpose
 
