@@ -8,7 +8,8 @@
 </p>
 
 <p align="center">
-[<a href="https://github.com/voidfy69/Radium-Nuker/#installation"> How to install</a> ]
+[<a href="https://github.com/voidfy69/Radium-Nuker/#installation"> How to install</a> ] - 
+[<a href="https://github.com/Bad-Discord/Discord-Nuker/#Screenshots"> Screenshots</a> ]
 
 </p>
 
