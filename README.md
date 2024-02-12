@@ -44,13 +44,13 @@
 ```bash
 pip install -r requirements.txt; python main.python
 ``` 
-- **Or** just open the `main.py` and let it install its requirements
+- **Or** just open the `Radium.py` and let it install its requirements
 
 
 ### Termux
 - Here is the one line command for Installation:
 ```shell
-pkg update -y && pkg upgrade -y && pkg install python git && git clone https://github.com/Bad-Discord/Discord-Nuker && cd Discord-Nuker && pip install -r requirements.txt && python main.py
+pkg update -y && pkg upgrade -y && pkg install python git && git clone https://github.com/voidfy69/Radium-Nuker && cd Radium-Nuker && pip install -r requirements.txt && python Radium.py
 ```
 - Just copy and paste it in your Termux's shell
 
@@ -59,14 +59,14 @@ pkg update -y && pkg upgrade -y && pkg install python git && git clone https://g
 ## 🤔 Usage
 
 ### Normal Usage
-- Use `python main.py` or run it manually by double click
+- Use `python Radium.py` or run it manually by double click
 
 ### Using Sessions
 
- - Create a [Session](https://github.com/Bad-Discord/Discord-Nuker/#sessions) file and then run `python main.py <your session>`
+ - Create a [Session](https://github.com/voidfy69/Radium-Nuker/#sessions) file and then run `python main.py <your session>`
 
 ```bash
-python main.py session.json
+python Radium.py session.json
 ```
 
 
@@ -81,8 +81,8 @@ if you're Too lazy to copy and paste the same token every time; create a Session
     "Token": "Your Token",
     "SpamTexts": ["Some Texts", "For Spam"],
     "SpamAmount": 50,
-    "ServerName": "Logique Nuked this Guild Bruh!",
-    "SpamInviteLink": "discord.gg/cool-people"
+    "ServerName": "Lucifer Nuked this Guild Bruh!",
+    "SpamInviteLink": "discord.gg/eternalsop"
 }
 ```
 
