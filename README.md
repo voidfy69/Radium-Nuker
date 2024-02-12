@@ -1,19 +1,19 @@
-# 💀 Bad Discord Nuker 💀
+# 💀 Radium Discord Nuker 💀
 
 
 <p align="center">
- <img src="https://img.shields.io/github/last-commit/Bad-Discord/Discord-Nuker?color=blue&style=flat-square" </a>
- <img src="https://img.shields.io/github/stars/Bad-Discord/Discord-Nuker?color=blue&label=Stars&style=flat-square" </a>
- <img src="https://img.shields.io/github/forks/Bad-Discord/Discord-Nuker?color=blue&label=Forks&style=flat-square" </a>
+ <img src="https://img.shields.io/github/last-commit/voidfy69/Radium-Nuker?color=blue&style=flat-square" </a>
+ <img src="https://img.shields.io/github/stars/voidfy69/Radium-Nuker?color=blue&label=Stars&style=flat-square" </a>
+ <img src="https://img.shields.io/github/forks/voidfy69/Radium-Nuker?color=blue&label=Forks&style=flat-square" </a>
 </p>
 
 <p align="center">
-[<a href="https://github.com/Bad-Discord/Discord-Nuker/#installation"> How to install</a> ] - 
-[<a href="https://github.com/Bad-Discord/Discord-Nuker/#Screenshots"> Screenshots</a> ]
+[<a href="https://github.com/voidfy69/Radium-Nuker/#installation"> How to install</a> ] - 
+[<a href="https://github.com/voidfy69/Radium-Nuker/#Screenshots"> Screenshots</a> ]
 
 </p>
 
-ایرانی هستید؟ [داکیومنشن فارسی](https://github.com/Bad-Discord/Discord-Nuker/tree/main/persian_docs/)
+ایرانی هستید؟ [داکیومنشن فارسی](https://github.com/voidfy69/Radium-Nuker/tree/main/persian_docs/)
 
 ### *Features :*
 > - [x] *Spam in all channels*
